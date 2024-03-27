@@ -30,7 +30,8 @@ url: "https://aleksandra-ludwiniak.github.io" # the base hostname & protocol for
 #github_username: aleksandra-ludwiniak
 
 # Build settings
-theme: minima
+#theme: minima
+theme: jekyll-theme-so-simple
 plugins:
   - jekyll-feed
 
