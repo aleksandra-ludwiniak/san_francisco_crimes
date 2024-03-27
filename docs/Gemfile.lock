@@ -191,13 +191,6 @@ GEM
     jekyll-theme-slate (0.2.0)
       jekyll (> 3.5, < 5.0)
       jekyll-seo-tag (~> 2.0)
-    jekyll-theme-so-simple (3.2.0)
-      jekyll (>= 3.6, < 5.0)
-      jekyll-feed (~> 0.1)
-      jekyll-gist (~> 1.4)
-      jekyll-paginate (~> 1.1)
-      jekyll-seo-tag (~> 2.4)
-      jekyll-sitemap (~> 1.3)
     jekyll-theme-tactile (0.2.0)
       jekyll (> 3.5, < 5.0)
       jekyll-seo-tag (~> 2.0)
@@ -274,7 +267,6 @@ DEPENDENCIES
   github-pages (~> 228)
   http_parser.rb (~> 0.6.0)
   jekyll-feed (~> 0.12)
-  jekyll-theme-so-simple
   minima (~> 2.5)
   tzinfo (>= 1, < 3)
   tzinfo-data
