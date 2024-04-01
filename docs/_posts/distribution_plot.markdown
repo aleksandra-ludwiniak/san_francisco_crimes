@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Distribution of violent and property crimes"
-date:   2024-03-28 22:06:35 +0100
 categories: violence Tenderloin
 ---
  
