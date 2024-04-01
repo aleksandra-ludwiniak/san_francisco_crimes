@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "The proportion of drug crimes the highest in Tenderloin "
-date:   2024-03-26 22:06:35 +0100
+title:  "The proportion of drug crimes the highest in Tenderloin"
 categories: drug crimes Tenderloin
 ---
 
